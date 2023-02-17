@@ -82,5 +82,5 @@ confluent_kafka==1.9.2 # dependency of gcn-kafka: pinning to understand memory e
 iminuit==2.18.0
 watchdog==2.2.1
 PyAstronomy==0.18.0
-shapely==1.8.0
+shapely==2.0.1
 stdpipe==0.1
